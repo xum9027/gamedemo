@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemy_hurt",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "878c8be2-7d08-4b7b-a004-c17ce8206a51"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "b00ac6ad-5213-42a6-99e7-566a7456fc68"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "c8790654-9d87-4f79-9339-48911c99ea83"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ca5f8a5d-5246-40e4-a8ca-1d24d1c645f0"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "03a1726a-a683-4de1-9c81-fd7942a1eb8d"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "6c999250-6d30-4ed4-8aa6-89aa9dd2d5e1"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "6818726b-acdb-4358-bb73-9cb4ac8c9a64"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

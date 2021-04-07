@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7ace9fde-68fb-4d54-9edd-eecd2acb1c22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 50,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "adventurer-jump-03": {
+      "ver": "1.0.4",
+      "uuid": "e10705e4-439f-4b45-ab2e-63df23e6ee91",
+      "rawTextureUuid": "7ace9fde-68fb-4d54-9edd-eecd2acb1c22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2,
+      "trimX": 14,
+      "trimY": 5,
+      "width": 21,
+      "height": 23,
+      "rawWidth": 50,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

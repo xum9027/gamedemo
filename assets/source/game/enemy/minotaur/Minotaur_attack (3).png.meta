@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ddd3c018-b275-4ad6-944f-e8da36de2464",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": false,
+  "width": 96,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "Minotaur_attack (3)": {
+      "ver": "1.0.4",
+      "uuid": "f0f94968-51fd-4ad8-a58d-35f213f06c7f",
+      "rawTextureUuid": "ddd3c018-b275-4ad6-944f-e8da36de2464",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 10.5,
+      "trimX": 14,
+      "trimY": 5,
+      "width": 71,
+      "height": 65,
+      "rawWidth": 96,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

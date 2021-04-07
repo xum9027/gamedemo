@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "platform_demo",
+		"appid": "677759646",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "677759646",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
+}
